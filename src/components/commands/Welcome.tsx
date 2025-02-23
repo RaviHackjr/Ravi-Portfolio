@@ -65,7 +65,7 @@ const Welcome: React.FC = () => {
                   ,^     \` 'b 3-
               .<\` 'p   ^v   #   b   *.
             {      }   #"GpGb   [
-            C      3 * @#######Nl      \`
+            C    3 * @Blakite_Ravii      \`
            '            ^@##b     ($    !
          `}
         </PreImg>
