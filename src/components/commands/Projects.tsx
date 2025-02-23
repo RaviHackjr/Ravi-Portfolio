@@ -70,7 +70,7 @@ const projects = [
     id: 3,
     title: "Rupali - Horror Game",
     desc: "A spine-chilling 2D horror game where players uncover dark secrets in an abandoned mansion, featuring eerie sound design and atmospheric horror elements.",
-    url: "https://rupali-horror.vercel.app/",
+    url: "https://discord.gg/EazCGVkWn6",
   },
   {
     id: 4,
