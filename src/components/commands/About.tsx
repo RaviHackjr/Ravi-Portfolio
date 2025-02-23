@@ -11,8 +11,8 @@ const About: React.FC = () => {
         Hi, my name is <HighlightSpan>Blakite_Ravii</HighlightSpan>!
       </p>
       <p>
-        I'm <HighlightAlt>an Web, Game & Bot developer</HighlightAlt> Mathura,
-        India.
+        I'm <HighlightAlt>an Web, Game & Bot developer</HighlightAlt> From Mathura,
+        Uttar Pradesh, India.
       </p>
       <p>
         I am passionate about Web, Game develpement and <br />
